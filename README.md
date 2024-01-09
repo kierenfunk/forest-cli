@@ -28,7 +28,7 @@ This command line interface (CLI) tool is designed to interact with the Forest A
    ```
 3. Build the project:
    ```bash
-   go build
+   make
    ```
 
 ## Usage
