@@ -14,7 +14,7 @@ This command line interface (CLI) tool is designed to interact with the Forest A
 ## Prerequisites
 
 - Go (Golang) environment set up on your machine.
-- Access to the (Forest App)[https://play.google.com/store/apps/details?id=cc.forestapp].
+- Access to the [Forest App](https://play.google.com/store/apps/details?id=cc.forestapp).
 
 ## Installation
 
