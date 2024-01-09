@@ -1,4 +1,4 @@
-# Forest App CLI
+# Forest App CLI (Unofficial)
 
 This command line interface (CLI) tool is designed to interact with the Forest App API. It provides functionality for listing, adding, updating, and managing trees and tags associated with a user's account. 
 
@@ -14,13 +14,13 @@ This command line interface (CLI) tool is designed to interact with the Forest A
 ## Prerequisites
 
 - Go (Golang) environment set up on your machine.
-- Access to the Forest App API.
+- Access to the (Forest App)[https://play.google.com/store/apps/details?id=cc.forestapp].
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com/kierenfunk/forest-cli
+   git clone git@github.com:kierenfunk/forest-cli.git 
    ```
 2. Navigate to the project directory:
    ```bash
